@@ -15,7 +15,7 @@
      <EnumValue value="Orange" />
      <EnumValue value="White" />
    </UserPref>
-<!--    <Content type="html"><![CDATA[ -->
+   <Content type="html"><![CDATA[
    <div id="content_div"></div>
    <script type="text/javascript">
    // Get userprefs
