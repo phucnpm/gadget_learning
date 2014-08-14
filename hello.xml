@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
+<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="Preferences for __UP_myname__" height="400" 
-  title_url="http://www.example.com/build/status.php?__UP_projects__" 
-  author="Shen" author_email="shenlong3030@gmail.com"/>
+  <ModulePrefs title="Preferences for __UP_myname__" height="400"/>
   <UserPref name="myname" display_name="Name" default_value="Rowan"/>
   <UserPref name="myphoto" display_name="Photo" default_value="http://doc.examples.googlepages.com/rowan-headshot.jpg"/>
   <UserPref name="mychoice" display_name="Show Photo?" datatype="bool" default_value="true"/>
